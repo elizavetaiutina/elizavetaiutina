@@ -1,5 +1,4 @@
 <h1 align="center">Hi! My name's Elizaveta!</h1>
-<h3 align="center">I'm a begginer frontend developer</h3>
 <h3>You could contact me:</h3>
 <p>Telegram: @lizaiutina</p>
 <p>Vk: @lizaiutina</p>
