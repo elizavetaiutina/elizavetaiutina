@@ -3,7 +3,7 @@
 <p>Telegram: @lizaiutina</p>
 <p>Vk: @lizaiutina</p>
 <p>Mail: iutinaelizaveta@yandex.ru</p>
-<img src='https://www.codewars.com/users/iutinael/badges/small'>
+<img src='https://www.codewars.com/users/rsschool_c58b6bb3066ec1d6/badges/small'>
 <!--
 **elizavetaiutina/elizavetaiutina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
