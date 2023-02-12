@@ -1,7 +1,6 @@
 <h1 align="center">Hi! My name's Elizaveta!</h1>
 <h3>You could contact me:</h3>
 <p>Telegram: @lizaiutina</p>
-<p>Vk: @lizaiutina</p>
 <p>Mail: iutinaelizaveta@yandex.ru</p>
 <img src='https://www.codewars.com/users/rsschool_c58b6bb3066ec1d6/badges/small'>
 <!--
