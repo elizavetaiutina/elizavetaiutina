@@ -1,5 +1,5 @@
 <h1 align="center">Hi ! I'm Elizaveta Iutina !</h1>
-<h3 align="center">⚡ I'm a begginer frontend developer from St. Petersburg</h3>
+<h2 align="center">⚡ I'm a begginer frontend developer from St. Petersburg</h2>
 
 <h3>Technologies and Tools:</h3>
 <div><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="22">
@@ -11,8 +11,8 @@
 </div>
 
 <h3>You could contact me:</h3>
-<p>telegram: @lizaiutina</p>
-<p>mail: iutinaelizaveta@yandex.ru</p>
+<p><b>telegram:</b> @lizaiutina</p>
+<p><b>mail:</b> iutinaelizaveta@yandex.ru</p>
 
 <h3>Codewars</h3>
 <img src='https://www.codewars.com/users/rsschool_c58b6bb3066ec1d6/badges/large'>
