@@ -1,5 +1,5 @@
 <h1 align="center">Hi ! I'm Elizaveta Iutina !</h1>
-<h2 align="center">⚡ I'm a begginer frontend developer from St. Petersburg</h2>
+<h2 align="center">⚡ I'm a frontend developer from St. Petersburg</h2>
 
 <h3>Technologies and Tools:</h3>
 <div><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="22">
