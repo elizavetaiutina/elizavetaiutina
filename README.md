@@ -3,7 +3,6 @@
 
 ### I'm Elizaveta Iutina and I'm from St. Petersburg ⚡ 
 
-- 💻 I’m currently working on JavaScript, ReactJS
 - 🎓 I’m currently learning Java, TypeScript and JavaScript improvements
 
 ### 💬 You could contact me:
